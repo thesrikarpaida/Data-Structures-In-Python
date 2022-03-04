@@ -1,3 +1,3 @@
 # Data Structures In Python
 
-This repo contains the implementation of some commonly used data structures using Python.
+This repo contains some commonly used data structures implemented in Python.
